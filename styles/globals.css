@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@keyframes slideDown{
+  from{
+    margin-top: -100%;
+
+  }
+  to{
+    margin-top: 0;
+  }
+}
